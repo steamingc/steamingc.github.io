@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int tx = 0;	//xÁÂÇ¥ ÃÑÇÕ
-		int ty = 0;	//yÁÂÇ¥ ÃÑÇÕ
+		int tx = 0;	//xì¢Œí‘œ ì´í•©
+		int ty = 0;	//yì¢Œí‘œ ì´í•©
 
 		for(int i=0; i<3; i++) {
 			int x = sc.nextInt();
